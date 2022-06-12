@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "d:/C++ Chapter 4/DanglingElse",
-      "program": "d:/C++ Chapter 4/DanglingElse/build/Debug/outDebug",
+      "cwd": "d:/C++ Chapter 4/4_26",
+      "program": "d:/C++ Chapter 4/4_26/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
